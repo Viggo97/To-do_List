@@ -64,8 +64,9 @@ form button:hover {
     align-items: center;
 }
 
-.todo li {
+.todo-item {
     flex-grow: 1;
+    padding: 0 .5rem;
 }
 
 .trash-button,
